@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parma Project", "Parma Project\Parma Project.csproj", "{0D9F250E-4DEF-4ABF-B43B-2C917689BC2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D9F250E-4DEF-4ABF-B43B-2C917689BC2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D9F250E-4DEF-4ABF-B43B-2C917689BC2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D9F250E-4DEF-4ABF-B43B-2C917689BC2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D9F250E-4DEF-4ABF-B43B-2C917689BC2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E272151-55C2-411B-A088-19909976821F}
+	EndGlobalSection
+EndGlobal
